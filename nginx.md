@@ -26,6 +26,6 @@
 >补充
 - 1、vi打开文件后 没有修改的话 :q 退出
 - 2、vi打开文件后 修改了文件的话 :wq 保存并退出
-- 3、/usr/local/webserver/nginx/sbin/nginx -s reload 重新载入配置文件
-- 4、/usr/local/webserver/nginx/sbin/nginx -s reopen 重启 Nginx
-- 5、/usr/local/webserver/nginx/sbin/nginx -s stop 停止 Nginx
+- 3、`/usr/local/webserver/nginx/sbin/nginx -s reload`重新载入配置文件
+- 4、`/usr/local/webserver/nginx/sbin/nginx -s reopen` 重启 Nginx
+- 5、`/usr/local/webserver/nginx/sbin/nginx -s stop` 停止 Nginx
